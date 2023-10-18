@@ -1,4 +1,6 @@
-﻿namespace WebApplication1.DTO;
+﻿using System;
+
+namespace WebApplication1.DTO;
 
 public class Birthdate
 {

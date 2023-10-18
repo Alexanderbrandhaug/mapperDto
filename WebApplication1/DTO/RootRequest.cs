@@ -1,4 +1,7 @@
-﻿namespace WebApplication1.DTO;
+﻿using System;
+using System.Collections.Generic;
+
+namespace WebApplication1.DTO;
 
 public class RootRequest
 {

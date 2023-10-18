@@ -1,4 +1,6 @@
-﻿namespace WebApplication1.DTO;
+﻿using System.Collections.Generic;
+
+namespace WebApplication1.DTO;
 
 public class Details
 {
